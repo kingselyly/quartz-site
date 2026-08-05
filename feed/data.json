@@ -20,6 +20,25 @@
     "page_count": 7
   },
   {
+    "id": "2026-08-05-AI制药没有魔法棒-DaphneKoller",
+    "title": "DaphneKoller",
+    "category": "待发布",
+    "category_label": "📦 待发布",
+    "type": "AI制药没有魔法棒",
+    "date": "2026-08-05",
+    "dirname": "2026-08-05-AI制药没有魔法棒-DaphneKoller",
+    "cover": "assets/2026-08-05-AI制药没有魔法棒-DaphneKoller/cover.png",
+    "pages": [
+      "assets/2026-08-05-AI制药没有魔法棒-DaphneKoller/page-01.png",
+      "assets/2026-08-05-AI制药没有魔法棒-DaphneKoller/page-02.png",
+      "assets/2026-08-05-AI制药没有魔法棒-DaphneKoller/page-03.png",
+      "assets/2026-08-05-AI制药没有魔法棒-DaphneKoller/page-04.png",
+      "assets/2026-08-05-AI制药没有魔法棒-DaphneKoller/page-05.png",
+      "assets/2026-08-05-AI制药没有魔法棒-DaphneKoller/page-06.png"
+    ],
+    "page_count": 6
+  },
+  {
     "id": "2026-08-05-科研-scGraph漂移岛屿评估嵌入指标",
     "title": "scGraph漂移岛屿评估嵌入指标",
     "category": "待发布",
