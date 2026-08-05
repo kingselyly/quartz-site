@@ -10,7 +10,13 @@
     <link>https://kingselyly.github.io/quartz-site/tags/</link>
     <guid>https://kingselyly.github.io/quartz-site/tags/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Wed, 05 Aug 2026 07:42:46 GMT</pubDate>
+    <pubDate>Wed, 05 Aug 2026 07:47:13 GMT</pubDate>
+  </item><item>
+    <title>未命名</title>
+    <link>https://kingselyly.github.io/quartz-site/%E6%9C%AA%E5%91%BD%E5%90%8D</link>
+    <guid>https://kingselyly.github.io/quartz-site/%E6%9C%AA%E5%91%BD%E5%90%8D</guid>
+    <description><![CDATA[ npx quartz build —serve -d ~/Data/obsidian-vaults/Public —port 8090 bash ~/Data/quartz-site/deploy.sh. ]]></description>
+    <pubDate>Wed, 05 Aug 2026 07:46:36 GMT</pubDate>
   </item><item>
     <title>主页</title>
     <link>https://kingselyly.github.io/quartz-site/</link>
