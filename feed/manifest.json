@@ -1,0 +1,15 @@
+{
+  "name": "Kingsley's Feed",
+  "short_name": "KFeed",
+  "description": "Kingsley 的个人内容流",
+  "start_url": "/quartz-site/feed/",
+  "scope": "/quartz-site/feed/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#1a1a1a",
+  "background_color": "#f7f7f7",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
