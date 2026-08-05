@@ -10,7 +10,13 @@
     <link>https://kingselyly.github.io/quartz-site/tags/</link>
     <guid>https://kingselyly.github.io/quartz-site/tags/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Wed, 05 Aug 2026 07:47:13 GMT</pubDate>
+    <pubDate>Wed, 05 Aug 2026 07:57:42 GMT</pubDate>
+  </item><item>
+    <title>蛋白互作网络分析</title>
+    <link>https://kingselyly.github.io/quartz-site/%E8%9B%8B%E7%99%BD%E4%BA%92%E4%BD%9C%E7%BD%91%E7%BB%9C%E5%88%86%E6%9E%90</link>
+    <guid>https://kingselyly.github.io/quartz-site/%E8%9B%8B%E7%99%BD%E4%BA%92%E4%BD%9C%E7%BD%91%E7%BB%9C%E5%88%86%E6%9E%90</guid>
+    <description><![CDATA[ 蛋白互作网络分析 目录 STRING + NetworkX双剑合璧 构建网络前明确这4件事 拓扑分析与Hub基因识别 4个误读点 蛋白互作网络（PPI） 系统生物学的核心方法。 传统方式： 手动上传 → 等待分析 → 下载结果 → Cytoscape画图 → 至少半天 STRING + NetworkX： 15分钟完成全流程！ STRING数据库： 5000+生物 2400万蛋白质 2000万互作关系 构建PPI前明确这4件事 输入列表来源 先说明基因来自差异表达、GWAS、蛋白组还是文献整理，并保留原始筛选阈值。 物种与ID体系 人、小鼠、大鼠网络不能混着跑；Gene Symbol、Ense... ]]></description>
+    <pubDate>Wed, 05 Aug 2026 07:57:00 GMT</pubDate>
   </item><item>
     <title>未命名</title>
     <link>https://kingselyly.github.io/quartz-site/%E6%9C%AA%E5%91%BD%E5%90%8D</link>
